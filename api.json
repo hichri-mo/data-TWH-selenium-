@@ -1,0 +1,36 @@
+{
+    "success": true,
+    "company": {
+      "linkedInId": "103635850",
+      "name": "Twensa Hosting AIHub",
+      "universalName": "twensa-hosting-aihub",
+      "linkedInUrl": "https://www.linkedin.com/company/103635850",
+      "employeeCount": 2,
+      "followerCount": 370,
+      "employeeCountRange": {
+        "start": 2,
+        "end": 10
+      },
+      "websiteUrl": null,
+      "tagline": "AI & Data Educational Hub",
+      "description": "Twensa Hosting is a Tunisian Hub focused on education in artificial intelligence and data science, catering to students and professionals seeking to transition into the data field.",
+      "industry": "IT Services and IT Consulting",
+      "phone": "+21626747518",
+      "specialities": [],
+      "headquarter": {
+        "city": null,
+        "country": null,
+        "postalCode": null,
+        "geographicArea": null,
+        "street1": null,
+        "street2": null
+      },
+      "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHONFKxwmoBGA/company-logo_400_400/company-logo_400_400/0/1718719253900?e=1733961600&v=beta&t=P8_5k58vCvVN9aNfh3Ys9dRL-uCXkcB9-j0t4-JIu18",
+      "foundedOn": {
+        "year": 2020
+      }
+    },
+    "credits_left": 17,
+    "rate_limit_left": 18,
+    "person": null
+  }
